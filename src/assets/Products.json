@@ -1,0 +1,31 @@
+[{
+    "id":1,
+    "name":"Apple",
+    "amt":"125",
+    "pic":"https://media.istockphoto.com/id/834816218/photo/red-apple-fruit-with-half-and-green-leaf-isolated-on-white.jpg?s=612x612&w=0&k=20&c=CAwW2uRYUNm5HyEN4iWTSx-2E9EyqFp-7VS2n7wFnIo="
+},
+{
+    "id":2,
+    "name":"Orange",
+    "amt":"75",
+    "pic":"https://media.istockphoto.com/id/1227301369/photo/whole-cross-section-and-quarter-of-fresh-organic-navel-orange-with-leaves-in-perfect-shape-on.jpg?s=612x612&w=0&k=20&c=83RkDh92xaONM8hB8pbrXpOTqPgm8woKIYvEQ41e9Yw="
+},
+{
+    "id":3,
+    "name":"Grapes",
+    "amt":"80",
+    "pic":"https://media.istockphoto.com/id/489520104/photo/green-grape-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=9kg_3pMeBKYnHHjx2JECF61QwzxTikLaQ2w-6A5tOO0="
+},
+{
+    "id":4,
+    "name":"Mango",
+    "amt":"120",
+    "pic":"https://media.istockphoto.com/id/168370138/photo/mango.jpg?s=612x612&w=0&k=20&c=ENq2BrUV8dNH2rth_ZYBBtS9RWDwCbI25SfulxirmnQ="
+},
+{
+    "id":5,
+    "name":"Banana",
+    "amt":"130",
+    "pic":"https://media.istockphoto.com/id/173242750/photo/banana-bunch.jpg?s=612x612&w=0&k=20&c=MAc8AXVz5KxwWeEmh75WwH6j_HouRczBFAhulLAtRUU="
+}
+]
